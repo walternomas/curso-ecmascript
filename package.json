@@ -20,5 +20,8 @@
     "url": "https://github.com/walternomas/curso-ecmascript/issues"
   },
   "homepage": "https://github.com/walternomas/curso-ecmascript#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
