@@ -1,0 +1,23 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walternomas/curso-ecmascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Barrios Walter <w.barriosvazquez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walternomas/curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/walternomas/curso-ecmascript#readme"
+}
